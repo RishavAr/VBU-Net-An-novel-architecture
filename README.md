@@ -33,14 +33,11 @@ Step 1: Begin
                         e. Apply ReLU activation to "x"
                         f. Apply another convolutional layer with 
                             "f[i]" and kernel size (3,3) to "x"
-
                         g. Apply batch normalization to "x"
                         h. Apply ReLU activation to "x"
         Step 12: Apply a convolutional layer with filter size 1 
                         and kernel size (1,1) to "x"
-         Step 13: Apply sigmoid activation to "x"
-
-         
+        Step 13: Apply sigmoid activation to "x"
         Step 14: Reshape "x" into a 2D tensor with dimensions 
                    (256^2, 1)
         Step 15: Apply a bidirectional LSTM layer with 64 units 
