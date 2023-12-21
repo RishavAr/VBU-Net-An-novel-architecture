@@ -52,6 +52,10 @@ Breast cancer is a leading cause of death among women worldwide. Early detection
                      and "x" as the output
         Step 19: Return the mod 
 
+
+# Dataset
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.1g2nt41
+
 # Conclusion
 VBU-Net is an enhanced version of the U-Net architecture that has achieved remarkable results in medical image segmentation tasks, with a Dice coefficient of 0.7981. The key improvements in VBU-Net include the expansion of Vgg19 and BiLstm layers, which allow for more complex feature extraction and capturing of temporal dependencies in the image data. These enhancements make VBU-Net a valuable tool in the clinical field, where accurate image segmentation is crucial for diagnosis and treatment planning.
 
