@@ -6,7 +6,9 @@ Breast cancer is a leading cause of death among women worldwide. Early detection
 
 # Algorithm for VBU-MNet
 
-Step 1: Begin
+
+
+        Step 1: Begin
         Step 2: Define the function "model"
         Step 3: Create an input layer (256,256, 3) and 
         Step 4: Load the VGG19 model 
