@@ -1,4 +1,4 @@
-# VBU-Net_repo
+# VBU-Net Model
 A unique model for breast tumor segmentation
 
 # Objective
