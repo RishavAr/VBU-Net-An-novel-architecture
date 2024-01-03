@@ -4,7 +4,7 @@ A unique model for breast tumor segmentation
 # Objective
 Breast cancer is a leading cause of death among women worldwide. Early detection and accurate diagnosis of breast cancer are essential for improving survival rates. Medical imaging techniques , such as mammography, ultrasound, and histopathology, are critical tools for the study of breast cancer. However, manual interpretation of medical images is time-consuming, and the accuracy of human interpretation can vary. Therefore, there is a need to develop automated tools for medical image analysis to improve the accuracy and efficiency of breast cancer diagnosis. Therefore, the problem statement of this study is to develop an accurate breast tumor segmentation model using histopathological images by combining the U-Net architecture with pre-trained VGG19 and BiLSTM layers. The proposed model aims to improve the accuracy and efficiency of breast cancer diagnosis, potentially aiding pathologists in accurately identifying and delineating breast tumors. The performance of the model is evaluated using accuracy and logarithmic loss metrics, and the results are compared with other state-of-the-art segmentation models. The proposed model has the potential to contribute to the development of computer-aided diagnosis systems for breast cancer, improving patient outcomes and survival rates.
 
-# Algorithm for VBU-MNet
+# Algorithm for VBU-Net
 
 
 
