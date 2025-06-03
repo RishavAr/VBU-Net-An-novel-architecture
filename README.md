@@ -1,4 +1,4 @@
-# VBU-Net Model
+# VBU-Net Model -A novel architecture for breast tumor segmentation
 A unique model for breast tumor segmentation
 
 # Objective
